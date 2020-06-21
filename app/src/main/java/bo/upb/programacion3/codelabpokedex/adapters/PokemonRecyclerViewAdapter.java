@@ -10,7 +10,6 @@ import android.view.ViewGroup;
 import java.util.List;
 
 import bo.upb.programacion3.codelabpokedex.R;
-import bo.upb.programacion3.codelabpokedex.adapters.PokemonViewHolder;
 import bo.upb.programacion3.codelabpokedex.callback.PokemonCallback;
 import bo.upb.programacion3.codelabpokedex.model.Pokemon;
 
